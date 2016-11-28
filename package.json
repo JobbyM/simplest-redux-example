@@ -1,7 +1,7 @@
 {
   "name": "simplest-redux-example",
   "version": "1.0.0",
-  "description": "redux example\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C r\u001b[D\u001b[Ce\u001b[2~\u001b[D\u001b[D\u001b[C\u001b[Cdux\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dsimplest redux example",
+  "description": "simplest redux example",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
